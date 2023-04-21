@@ -7,7 +7,7 @@ e = Estados Unidos
 l = Libano
 %}
 
-cd '/Users/matiasgiorgio/Desktop/Semestre VIII/Desarrollo Economico/Consigna Parcial'
+cd 'Desarrollo Economico/Consigna Parcial'
 data_l = xlsread('Milagros_Desastres_Data.xlsx', 'Lebanon');
 data_eeuu = xlsread('Milagros_Desastres_Data.xlsx', 'EEUU(filtrado)');
 
